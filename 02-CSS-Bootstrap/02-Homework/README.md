@@ -5,11 +5,11 @@ Responsive design ensures that web applications render well on a variety of devi
 
 ## Directions
 
-First, you will use the Bootstrap CSS Framework to recreate your portfolio. How do you deliver this? Here are some guidelines:
+First, you will use the Bootstrap CSS Framework to recreate the portfolio as seen in the images folder. How do you deliver this? Here are some guidelines:
 
 * Create the following pages: `index.html`, `portfolio.html` and `contact.html`.
 
-* Using Bootstrap, recreate your portfolio site with the following items:
+* Using Bootstrap, recreate that portfolio site with the following items:
 
    * A navbar
 
